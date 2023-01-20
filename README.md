@@ -4,11 +4,11 @@
 
  ### Tecnologias utilizadas: 
     
-    * **HTML**
-    * **CSS**
-    * **Javascript**
+* **HTML**
+* **CSS**
+* **Javascript**
 
  ### Visualização do Projeto: 
     
-    [](Clique Aqui)
+[Clique Aqui](https://github.com/CarlosDev0410/Projeto_Mario)
 
