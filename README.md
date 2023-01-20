@@ -4,7 +4,7 @@
 
  ### Tecnologias utilizadas: 
     
-* **HTML**
+* **HTML**![](https://www.flaticon.com/br/icone-gratis/html-5_5968267?term=html&page=1&position=1&origin=search&related_id=5968267)
 * **CSS**
 * **Javascript**
 
