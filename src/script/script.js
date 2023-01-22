@@ -11,14 +11,18 @@ const fecharModal = document.querySelector(".fechar-modal");
 const video = document.getElementById("video");
 const linkVideo = video.src;
 
+function alternaClasse(){
+    modal.classList.toggle("aberto");
+}
 
 botaoTrailer.addEventListener("click", () => {
-    modal.classList.toggle("aberto");
+    alternaClasse();
     video.setAttribute("src", linkVideo);
 });
 
 fecharModal.addEventListener("click", () => {
-    modal.classList.remove("aberto");
+    alternaClasse();
     video.setAttribute("src", "");
 });
+
 
