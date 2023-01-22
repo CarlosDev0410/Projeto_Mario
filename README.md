@@ -1,6 +1,6 @@
 # **Projeto_Mario** <img align="center" alt="Mario" height="35" width="45" src="https://img.icons8.com/doodle/512/super-mario.png">
 
- ## Projeto criado durante o evento do Canal Dev em Dobro
+ ## Projeto criado durante o evento do Canal Dev em Dobro!
 
  ### Tecnologias utilizadas: 
     
@@ -10,5 +10,5 @@
 
  ### Visualização do Projeto: 
     
-* [Clique Aqui](https://github.com/CarlosDev0410/Projeto_Mario)
+* [Clique Aqui](https://carlosdev0410.github.io/Projeto_Mario/)
 
